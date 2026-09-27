@@ -29,3 +29,15 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronin-david-perez-362087364/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoninDavidPerez)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronindavidperez@gmail.com)
+
+---
+
+### 🎤 talks, pitches & presentations
+
+#### Philosophy of Art Webinar — Rotaract Club
+**Resource Speaker** · *August 23, 2026*  
+Invited as a resource speaker to present on the intersection of creative design, art philosophy, and tech.
+
+* **Topic:** *"When Code Meets Canvas: Finding the Human Touch in the Age of AI"*
+
+---
